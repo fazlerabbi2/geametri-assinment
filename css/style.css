@@ -1,0 +1,21 @@
+
+.input input{
+    width: 40%;
+}
+.input span{
+    margin: 0px 5px;
+}
+.my-card img{
+    max-width: 75%;
+    height: 150px;
+    margin: 0 auto;
+}
+.result span{
+    margin: 0px 5px;
+}
+.result{
+    margin: 20px 0px;
+}
+.blog{
+    background-color: #E8F4FC;
+}
